@@ -1,0 +1,142 @@
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background: #e5e5e5;
+}
+
+.text-primary {
+	color: rgba(91,192,222,1);
+}
+
+a {
+	color: #5bc0de;
+}
+
+
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #51acc7;
+}
+
+.btn-primary {
+	background-color: #5bc0de;
+	border-color: #5bc0de;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  background-color: #5bc0de;
+  border-color: #5bc0de;
+}
+
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+  background-color: #5bc0de;
+  border-color: #5bc0de;
+}
+
+.btn-primary .badge {
+  color: #5bc0de;
+}
+
+.btn-xl {
+  background-color: #5bc0de;
+  border-color: #5bc0de;
+}
+
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+  background-color: #51acc7;
+  border-color: #51acc7;
+}
+
+.btn-xl.disabled,
+.btn-xl[disabled],
+fieldset[disabled] .btn-xl,
+.btn-xl.disabled:hover,
+.btn-xl[disabled]:hover,
+fieldset[disabled] .btn-xl:hover,
+.btn-xl.disabled:focus,
+.btn-xl[disabled]:focus,
+fieldset[disabled] .btn-xl:focus,
+.btn-xl.disabled:active,
+.btn-xl[disabled]:active,
+fieldset[disabled] .btn-xl:active,
+.btn-xl.disabled.active,
+.btn-xl[disabled].active,
+fieldset[disabled] .btn-xl.active {
+  background-color: #5bc0de;
+  border-color: #5bc0de;
+}
+
+.btn-xl .badge {
+  color: #5bc0de;
+}
+
+.navbar-custom .navbar-brand {
+  color: #5bc0de;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active {
+  color: #5bc0de;
+}
+
+.navbar-custom .navbar-toggle {
+  background-color: #5bc0de;
+  border-color: #5bc0de;
+}
+
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+  background-color: #5bc0de;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+  background-color: #5bc0de;
+}
+
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+  background-color: #5bc0de;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background: rgba(140, 140, 140, .6);
+}
+
+.text-primary, a {
+	color: #5bc0de;
+}
+.navbar-custom .nav li a:focus, .navbar-custom .nav li a:hover {
+	color: #5bc0de;
+}
+
+.timeline>li .timeline-image {
+	background-color: #5bc0de;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+	background-color: #5bc0de;
+}
